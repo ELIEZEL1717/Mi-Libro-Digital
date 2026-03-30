@@ -2,7 +2,7 @@
 
 **Mi Libro Digital** es una aplicación de escritorio diseñada para transformar el cuaderno físico de cobros en una herramienta digital robusta y profesional. Está enfocada en dueños de negocios o prestamistas que necesitan un control estricto de créditos y pagos de clientes.
 
-![Vista Previa](assets/preview.png)
+![Vista Previa](.assets/preview.png)
 
 ## 🚀 Características Principales
 
@@ -17,7 +17,7 @@
 ## 📸 Recibos Profesionales
 La app genera automáticamente una imagen limpia que puedes compartir con tus clientes para recordarles su deuda de forma profesional:
 
-![Ejemplo Recibo](assets/recibo.png)
+![Ejemplo Recibo](.assets/recibo.png)
 
 ## 🛠️ Tecnologías Usadas
 - **Python 3.10+**
@@ -30,7 +30,7 @@ La app genera automáticamente una imagen limpia que puedes compartir con tus cl
 1. **Clonar el repositorio**:
    ```bash
    git clone https://github.com/tu-usuario/mi-libro-digital.git
-   cd mi-libro-digital/ControlCuentas
+   cd mi-libro-digital
    ```
 
 2. **Instalar dependencias**:
