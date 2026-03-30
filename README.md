@@ -1,6 +1,6 @@
 # Mi Libro Digital - Control de Cuentas y Deudas 📚
 
-**Mi Libro Digital** es una aplicación de escritorio diseñada para reemplazar el cuaderno físico de cobros por una herramienta digital moderna y profesional. Está enfocada en dueños de negocios o prestamistas que necesitan llevar control de créditos y pagos de clientes.e
+**Mi Libro Digital** es una aplicación de escritorio diseñada para reemplazar el cuaderno físico de cobros por una herramienta digital moderna y profesional. Está enfocada en dueños de negocios o prestamistas que necesitan llevar control de créditos y pagos de clientes.
 
 ## 🚀 Características Principales
 
