@@ -1,50 +1,64 @@
 # Mi Libro Digital - Control de Cuentas y Deudas 📚
 
-**Mi Libro Digital** es una aplicación de escritorio diseñada para transformar el cuaderno físico de cobros en una herramienta digital robusta y profesional. Está enfocada en dueños de negocios o prestamistas que necesitan un control estricto de créditos y pagos de clientes.
-
-![Vista Previa](assets/preview.png)
+**Mi Libro Digital** es una aplicación de escritorio diseñada para reemplazar el cuaderno físico de cobros por una herramienta digital moderna y profesional. Está enfocada en dueños de negocios o prestamistas que necesitan llevar control de créditos y pagos de clientes.
 
 ## 🚀 Características Principales
 
-- **Gestión de Clientes**: Registra clientes con nombre, teléfono y comunidad.
-- **Control de Deudas Inteligente**: Calcula automáticamente el **Saldo Pendiente** restando los pagos de los créditos otorgados.
-- **Organización Geográfica**: Agrupa y filtra a tus clientes por **Comunidad** para organizar mejor tus rutas de cobro.
-- **Registro de Movimientos**: Historial detallado de créditos y pagos con descripciones personalizadas.
-- **Recibos Digitales en Imagen**: Genera recibos elegantes (estilo App Treinta) para enviar por WhatsApp en un solo clic.
-- **Exportación a Excel**: Saca reportes detallados de cada cliente en archivos `.xlsx`.
-- **Modo Oscuro Premium**: Interfaz moderna, rápida y descansada para la vista.
+* **Gestión de Clientes**
+  Permite registrar clientes con nombre, teléfono y comunidad.
 
-## 📸 Recibos Profesionales
-La app genera automáticamente una imagen limpia que puedes compartir con tus clientes para recordarles su deuda de forma profesional:
+* **Control de Deudas Automático**
+  Calcula automáticamente el saldo pendiente restando los pagos de los créditos otorgados.
 
-![Ejemplo Recibo](assets/recibo.png)
+* **Organización por Comunidad**
+  Permite agrupar y filtrar clientes por comunidad para organizar mejor los cobros.
+
+* **Registro de Movimientos**
+  Historial detallado de créditos y pagos con fechas y descripciones personalizadas.
+
+* **Generación de Recibos**
+  Crea recibos digitales profesionales para compartir con los clientes.
+
+* **Exportación a Excel**
+  Permite exportar reportes detallados de clientes en formato `.xlsx`.
+
+* **Modo Oscuro**
+  Interfaz moderna y cómoda para uso prolongado.
 
 ## 🛠️ Tecnologías Usadas
-- **Python 3.10+**
-- **PySide6** (Qt for Python) para la interfaz gráfica.
-- **SQLite** para una base de datos local ligera y segura.
-- **Pandas** para la exportación de reportes.
+
+* Python 3.10+
+* PySide6 (Qt for Python)
+* SQLite
+* Pandas
+* OpenPyXL
 
 ## 📦 Instalación y Uso
 
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/tu-usuario/mi-libro-digital.git
-   cd mi-libro-digital
-   ```
+### 1. Clonar el repositorio
 
-2. **Instalar dependencias**:
-   ```bash
-   pip install pyside6 pandas openpyxl
-   ```
+```bash
+git clone https://github.com/tu-usuario/mi-libro-digital.git
+cd mi-libro-digital
+```
 
-3. **Ejecutar la aplicación**:
-   ```bash
-   python main.py
-   ```
+### 2. Instalar dependencias
+
+```bash
+pip install pyside6 pandas openpyxl
+```
+
+### 3. Ejecutar la aplicación
+
+```bash
+python main.py
+```
 
 ## 🔒 Privacidad y Datos
-Todos los datos se guardan localmente en la carpeta `data/` dentro de un archivo `cuentas.db`. La aplicación no envía información a la nube, garantizando la total privacidad de tus clientes.
+
+Todos los datos se guardan localmente en la carpeta `data/` dentro del archivo `cuentas.db`.
+La aplicación no envía información a internet, garantizando la privacidad de los datos.
 
 ---
-*Desarrollado con ❤️ para digitalizar negocios locales.*
+
+Desarrollado para digitalizar y modernizar el control de cuentas y deudas.
