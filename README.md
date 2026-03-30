@@ -2,7 +2,7 @@
 
 **Mi Libro Digital** es una aplicación de escritorio diseñada para transformar el cuaderno físico de cobros en una herramienta digital robusta y profesional. Está enfocada en dueños de negocios o prestamistas que necesitan un control estricto de créditos y pagos de clientes.
 
-![Vista Previa](.assets/preview.png)
+![Vista Previa](.assets/vista_previa.png)
 
 ## 🚀 Características Principales
 
